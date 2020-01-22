@@ -1,5 +1,5 @@
 import React from 'react';
-import HeaderTitle from './../Shared/HeaderTitle'
+import HeaderTitle from '../Shared/HeaderTitle'
 function About()
 {
     return(
